@@ -1,0 +1,27 @@
+1. sequelize
+
+# Association
+a. hasOne - adds a foreign key to the target and singular association mixins to the source.
+    - menambahkan foreign ke source dan target
+    - hasOne atau One-to-one association (join tabel antara source dan target)
+
+
+
+b. belongsTo - add a foreign key and singular association mixins to the source.
+    - menambahkan foreign ke source saja.
+    - One-to-one association
+
+
+c. hasMany - adds a foreign key to target and plural association mixins to the source.
+    - menambahkan foreign ke target 
+    - One-to-many association
+
+
+d. belongsToMany - creates an N:M association with a join table and adds plural association mixins to the source. The junction table is created with sourceId and targetId.
+    - m -> m
+    - Many-to-many association with a join table.
+
+
+    
+
+

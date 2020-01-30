@@ -1,0 +1,9 @@
+1. desa -> rw -> rt
+2. kk -> ktp -> rw -> rt 
+
+
+
+
+1. warga
+    - id kk
+    - no ktp 
